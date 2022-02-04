@@ -1,8 +1,8 @@
 ## Hi, my name's Tales and i'm a Backend Developer!
 <div style="align: center; margin: 0; display: flex; flex-direction: row;">
   <a href="https://github.com/talesrc">
-  <img height="180em" width="80%" src="https://github-readme-stats.vercel.app/api?username=talesrc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesrc&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="70%" src="https://github-readme-stats.vercel.app/api?username=talesrc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesrc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
