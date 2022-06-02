@@ -1,4 +1,3 @@
-## Hi, my name's Tales and i'm a Data Engineer!
 <div style="align: center;">
   <a href="https://github.com/talesrc">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=talesrc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
